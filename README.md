@@ -1,7 +1,7 @@
 ### Hey, Devs!
 ### I'm Davi Piassi, a Brazilian who is always looking for challenges, because at the end of the day, all a good developer wants is to solve real problems, isn't it?
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+! [Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
 
 <div>
 <a href="https://github.com/davipiassi">
